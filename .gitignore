@@ -1,0 +1,20 @@
+# Build
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
+.cursor/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
