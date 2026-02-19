@@ -18,3 +18,6 @@ target/
 
 # Logs
 *.log
+
+# Word list files
+*words.txt
